@@ -1,6 +1,6 @@
 
 // What is the Big O for this one ?
-public class Exercise03_08 { 
+public class Exercise03_08 {
     public static void main(String[] args) { 
         java.util.Scanner input = new java.util.Scanner(System.in); 
         // Enter three numbers 

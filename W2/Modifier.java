@@ -1,5 +1,3 @@
-package au.edu.rmit.alex.jiang;
-
 public final class Modifier{
 	/**1
 	 * private

@@ -12,6 +12,6 @@ public class Exercise11 {
         int n4 = input / 100 % 10;
         int n5 = input / 10 % 10;
         int n6 = input % 10;
-      System.out.println(n1 + " " + n2 + " " + n3 + " " + n4 + " " + n5 + " " + n6);
+        System.out.println(n1 + " " + n2 + " " + n3 + " " + n4 + " " + n5 + " " + n6);
     }
 }

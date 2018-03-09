@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class test {
+public class LargestNumber {
     public static void main(String[] args) {
 
         int counter = 1;
