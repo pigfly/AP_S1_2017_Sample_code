@@ -1,5 +1,7 @@
 package retrospection;
 
+import java.io.InputStream;
+
 public final class ReflectExample {
     public static void main(String[] args) {
         int [] a1 = new int[]{1, 2, 3};
@@ -12,6 +14,8 @@ public final class ReflectExample {
         System.out.println(a3.getClass());
 
         System.out.println(a1.getClass().getSuperclass() == a3.getClass().getSuperclass());
+        System.out.println(a1.getClass().getSuperclass());
         System.out.println(a2.getClass().getSuperclass());
+        System.out.println(a3.getClass().getSuperclass());
     }
 }
