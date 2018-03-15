@@ -7,7 +7,7 @@ import java.util.Set;
 public abstract class Human {
     private final Set<String> types;
 
-    public Human(String type) {
+    Human(String type) {
         System.out.println("Abstract Human Class Constructor get called");
         this.types = new HashSet<>(Arrays.asList(type));
     }
