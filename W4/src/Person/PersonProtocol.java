@@ -1,4 +1,6 @@
-package au.com.rmit.misc;
+package Person;
+
+import Shape.*;
 
 /**
  * Created by alexj on 23/3/17.

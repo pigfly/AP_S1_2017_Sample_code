@@ -1,6 +1,6 @@
-package au.com.rmit.misc;
-
-import org.omg.CORBA.Object;
+import Shape.*;
+import Person.*;
+import House.*;
 
 import java.util.ArrayList;
 import java.util.Arrays;
