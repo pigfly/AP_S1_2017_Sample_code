@@ -1,3 +1,5 @@
+// in general, you can treat generics as if they are any other type,
+// they just happen to have type parameters.
 public class GenericCollection<T> {
     private T a;
     public GenericCollection() {}
