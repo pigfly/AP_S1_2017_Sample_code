@@ -1,5 +1,5 @@
 ## `Executor`
-- manage a pool of lo-level `Thread` objects
+- manage a pool of low-level `Thread` objects
 - you create a task, then hand it to an `Executor`
 
 ## `Runnable Task`
@@ -7,4 +7,4 @@
 
 ## `parallel()`
 - high level way of multithreading
-- place nicely with `Stream`, everything is your stream is running as a set of parallel tasks
+- place nicely with `Stream`, everything inside your stream is running as a set of parallel tasks
