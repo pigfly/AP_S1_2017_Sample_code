@@ -9,6 +9,6 @@ public class OzzzTask implements Runnable {
     }
     @Override
     public String toString() {
-        return "NapTask[" + id + "]";
+        return "OzzzTask[" + id + "]";
     }
 }
